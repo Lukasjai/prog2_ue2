@@ -1,6 +1,9 @@
 package trafficlight.gui;
 
 
+import trafficlight.observer.Observer;
+import trafficlight.observer.Subject;
+
 import java.awt.*;
 
 public class TrafficLight extends Light {
@@ -19,4 +22,8 @@ public class TrafficLight extends Light {
     }
 
     //TODO implement a part of the pattern here
+
+
+
+
 }
